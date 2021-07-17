@@ -1,0 +1,21 @@
+,Distritos,buy_price,rent_price,Renta_media_persona,Renta_media_hogar,city_coord,latitude,longitude,years_to_buy
+0,Arganzuela,360000.0,1346.0,18473,43789,"Arganzuela, Chopera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3969535,-3.6972891,19.487901261300276
+1,Barajas,427500.0,1502.0,18514,49615,"Barajas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4733176,-3.5798446,23.090634114723994
+2,Carabanchel,165000.0,798.0,11327,29842,"Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3742112,-3.744676,14.566963891586475
+3,Centro,520000.0,1553.0,17932,36072,"Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.417652700000005,-3.7079137662915533,28.998438545616775
+4,Chamartin,820000.0,1381.0,28190,70735,"Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4589872,-3.6761288,29.08832919474991
+5,Chamberi,710000.0,1627.0,24112,54327,"Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43624735,-3.7038303534513837,29.445919044459192
+6,Ciudad Lineal,259000.0,1064.5,15815,39425,"Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4484305,-3.650495,16.376857413847613
+7,Fuencarral-Pardo,549000.0,1496.0,19551,52858,"Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.55634555,-3.7785905137518054,28.080405094368576
+8,Hortaleza,629000.0,1255.0,19759,52944,"Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4725491,-3.6425515,31.833594817551496
+9,Latina,175000.0,833.0,12749,31872,"Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4035317,-3.736152,13.726566789552122
+10,Moncloa-Aravaca,929500.0,1262.0,24686,64066,"Moncloa-Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43949485,-3.7442035396547055,37.65292068378838
+11,Moratalaz,215000.0,964.0,14637,36755,"Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4059332,-3.6448737,14.688802350208377
+12,Puente de Vallecas,136750.0,693.0,10045,26652,"Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3835532,-3.65453548036571,13.613738178198108
+13,Retiro,550000.0,1553.0,22706,55775,"Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4111495,-3.6760566,24.222672421386417
+14,Salamanca,797000.0,1451.0,26255,61466,"Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4270451,-3.6806024,30.356122643306037
+15,Tetuan,299000.0,1158.5,15742,37557,"Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4605781,-3.6982806,18.993774615677804
+16,Usera,160000.0,780.0,9860,27674,"Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.383894,-3.7064459,16.227180527383368
+17,Vicalvaro,253896.5,1077.5,12353,33870,"Vicálvaro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3965841,-3.5766216,20.553428317008013
+18,Villa de Vallecas,196000.0,904.0,12545,32765,"Villa de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3739576,-3.6121632,15.62375448385811
+19,Villaverde,146000.0,728.0,10164,28407,"Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3456104,-3.6959556,14.364423455332545

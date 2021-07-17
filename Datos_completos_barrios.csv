@@ -1,0 +1,114 @@
+,Barrios,city_coord,latitud,longitud,renta_media_persona,renta_media_hogar
+0,San Cristóbal,"San Cristóbal, Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3433537,-3.6878175,6624.050341127377,20365.023927862174
+1,Los Ángeles,"Los Ángeles, Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3562217,-3.6996388,11245.389499752353,29050.183536272256
+3,Los Rosales,"Los Rosales, Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3571948,-3.6894484,10311.396581477526,29137.192147934544
+4,Villaverde,"Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3456104,-3.6959556,9875,27392
+5,Butarque,"Butarque, Villaverde, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3364041,-3.6742402,10697.897587368188,30537.67701524861
+6,Vicálvaro,"Vicálvaro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3965841,-3.5766216,11941,32713
+8,Casco Histórico de Vicálvaro,"Casco Histórico de Vicálvaro, Vicálvaro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4052863,-3.6072004,9571.277053706617,24976.426613048254
+9,Casco Histórico de Vallecas,"Casco Histórico de Vallecas, Villa de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3773477,-3.6217118,9346.021671905748,25118.35147225486
+11,Villa de Vallecas,"Villa de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3739576,-3.6121632,12114,31447.000000000004
+12,Santa Eugenia,"Santa Eugenia, Villa de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3829244,-3.6117674,13615.541502794453,37372.87689086554
+13,Orcasitas,"Orcasitas, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3691419,-3.7098741,10529.135496523444,28256.070493173305
+14,Usera,"Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.383894,-3.7064459,9552,26501
+15,San Fermín,"San Fermín, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3711037,-3.6901759,9254.197676442433,26284.212806827083
+16,Pradolongo,"Pradolongo, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.376647,-3.7077784,8225.007786762504,23958.843219985258
+18,Almendrales,"Almendrales, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3843762,-3.6992931,9588.9152254178,26469.55090287466
+19,Moscardó,"Moscardó, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3890429,-3.7057718,10131.605079087512,26985.95754775859
+20,Valdeacederas,"Valdeacederas, Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4679108,-3.7034226,11835.177327548461,28996.07302408422
+21,Tetuán,"Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4605781,-3.6982806,15180,36142
+22,Berruguete,"Berruguete, Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4602706,-3.7043452,12389.897604567457,30200.84437434208
+23,Cuatro Caminos,"Cuatro Caminos, Túnel de Cuatro Caminos, Ríos Rosas, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4467812,-3.7039643,19262.840047253398,44644.08182413573
+25,Bellas Vistas,"Bellas Vistas, Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4529595,-3.7072641,13114.544260665862,32298.333237447077
+27,Retiro,"Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4111495,-3.6760566,21598,53111
+28,Adelfas,"Adelfas, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4019026,-3.6709579,18991.091685963172,45917.8116757863
+29,Ibiza,"Ibiza, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4189526,-3.6737251,20681.807198909824,48231.478832139626
+30,Pacífico,"Pacífico, Calle del Doctor Esquerdo, Pacífico, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28007, España",40.4013961,-3.6748832,18838.692264021276,43434.14270999345
+31,Niño Jesús,"Niño Jesús, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4110941,-3.6737205,25063.382395477256,67780.16341533478
+32,Jerónimos,"Jerónimos, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4131439,-3.6842184,25792.36515129367,70467.17144290794
+33,Estrella,"Estrella, Retiro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4117618,-3.6669977,22436.193661971833,60385.786581160515
+34,Puente de Vallecas,"Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3835532,-3.65453548036571,9706,25527
+35,Palomeras Bajas,"Palomeras Bajas, Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3853367,-3.6579829,11148.3721593078,29604.89602298087
+36,San Diego,"San Diego, Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3922796,-3.6674239,8412.53538795497,21858.69264361057
+38,Entrevías,"Entrevías, Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.377656650000006,-3.674761075548501,8567.235571752897,23085.76588134208
+39,Numancia,"Numancia, Puente de Vallecas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3995283,-3.6596765,9818.377108275801,25457.011169490244
+40,Portazgo,"Portazgo, Avenida de la Albufera, Palomeras Bajas, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España",40.3930132,-3.659194,9483.66797799876,24621.560082261538
+41,Aravaca,"Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.457749,-3.7827941,24362.24990257969,69380.4167830863
+42,Argüelles,"Argüelles, Calle del Marqués de Urquijo, Gaztambide, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4307266,-3.7161715,23166.730669658267,54446.19324142607
+44,Ciudad Universitaria,"Ciudad Universitaria, Avenida Complutense, Ciudad Universitaria, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28040, España",40.4436804,-3.7268294,23760.496603083357,60564.54912720735
+45,Valdezarza,"Valdezarza, Moncloa-Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4649542,-3.717074,14738.72135407762,35982.60756191602
+46,El Plantío,"El Plantío, Moncloa-Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.468442,-3.817695979687869,30210,89215
+47,Fontarrón,"Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.399161,-3.6462064,11606.687897332304,28717.67711925863
+48,Moratalaz,"Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4059332,-3.6448737,14135,35514
+49,Vinateros,"Vinateros, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4051965,-3.6415467,12694.739057741685,29627.396469722768
+50,Marroquina,"Marroquina, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4107193,-3.6405684,16232.294083143926,41108.384234988116
+51,Media Legua,"Media Legua, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4119951,-3.6575338,14612.673706921025,36404.29648015864
+52,Horcajo,"Horcajo, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4081864,-3.6267762,15736.143286890438,46289.26469997773
+53,Pavones,"Pavones, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3996221,-3.6317093,13086.854864802404,34990.810288630964
+55,Latina,"Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4035317,-3.736152,12370,30846.999999999996
+56,Los Cármenes,"Glorieta de Los Cármenes, Aluche, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.395458,-3.7437776,11469.178191489362,30190.19420258434
+57,Aluche,"Aluche, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3879228,-3.7548539,12688.712997746055,31591.2085095363
+59,Lucero,"Lucero, Calle de Higueras, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4048009,-3.7452693,12173.024010734882,30910.304939335216
+60,Campamento,"Campamento, Avenida del Padre Piquer, Arroyo Meaques, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3946832,-3.7682788,12519.383512544802,32304.10919038396
+61,Cuatro Vientos,"Aeródromo de Cuatro Vientos (Zona Civil), Carretera del Barrio de la Fortuna, Latina, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3686775,-3.7781656,14827.246368715083,36806.068412370514
+62,Valdemarín,"Parque de Valdemarín, Moncloa-Aravaca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.46685345,-3.787092528171622,30008.589521054324,88243.28722868409
+63,Casa de Campo,"Casa de Campo, Madrid, Pozuelo de Alarcón, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.42406795,-3.755857557288471,18937.539238476955,42796.083804094065
+66,La Paz,"La Paz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.48212215,-3.695211267895985,22078.21835151443,59580.24210275288
+68,Peñagrande,"Peñagrande, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4789641,-3.7258417,17861.78152009878,46882.62568696712
+70,Pilar,"El Pilar, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4771334,-3.7089157,14476.804195347217,34531.7696936723
+71,Mirasierra,"Mirasierra, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4906361,-3.7161379,23741.573901676977,69837.88262424708
+73,Fuentelarreina,"Fuentelarreina, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4774958,-3.7426018,28731.104022627278,84239.05515940307
+74,El Pardo,"El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.5205538,-3.7780738,15288.790231684408,36744.50222273903
+77,Hortaleza,"Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4725491,-3.6425515,18620,49695
+78,Palomas,"Palomas, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4522376,-3.6141158,27208.647428229666,81073.19263034186
+81,Pinar del Rey,"Pinar del Rey, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4724696,-3.6489613,13931.611337824832,34494.430068913105
+82,Canillas,"Canillas, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4618893,-3.6433517,16175.431753554501,41118.238380907234
+83,Apóstol Santiago,"Apóstol Santiago, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4764884,-3.6594029,14396.437146702558,37643.37639485897
+84,Chamberí,"Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43624735,-3.703830353451384,22897,51644
+85,Almagro,"Almagro, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43172695,-3.69304366694354,26752.20269196121,69696.28522863866
+86,Trafalgar,"Trafalgar, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4332491,-3.701245895798365,20612.670502048757,43791.684942003674
+88,Vallehermoso,"Vallehermoso, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4430572,-3.7116809920844496,24668.69832631687,60073.67040081192
+89,Gaztambide,"Gaztambide, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43467955,-3.7149027097918568,20437.82727556527,45112.40186751973
+90,Arapiles,"Arapiles, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.43418655,-3.707922533247423,20197.62615339652,44265.298350069366
+91,Ventas,"Ventas, Calle de Alcalá, Guindalera, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.430831,-3.6632802,12071.579979730586,29318.65160998315
+92,Pueblo Nuevo,"Pueblo Nuevo, Calle Hermanos de Pablo, Quintana, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4350329,-3.644171,12032.920469770905,30974.503540073485
+93,Atalaya,"Atalaya, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.464389,-3.6651106,25974,68336
+94,Quintana,"Quintana, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4356576,-3.6471022,13042.108430220444,30972.29884231256
+95,San Juan Bautista,"San Juan Bautista, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4506953,-3.6563079,22460.33566376049,57584.326127942295
+96,Ciudad Lineal,"Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4484305,-3.650495,15111,37621
+97,Costillares,"Costillares, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4760473,-3.6685122,23568.837943752882,65144.18197840434
+98,Concepción,"Concepción, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4382057,-3.6495784,15202.326553452387,35033.775682601205
+99,Colina,"Colina, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4580463,-3.6602556,21958.500486223664,54615.29288681543
+100,San Pascual,"San Pascual, Ciudad Lineal, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4426834,-3.6534541,17766.135489998884,42809.052900749324
+101,Chamartín,"Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4589872,-3.6761288,26267,65995
+102,El Viso,"El Viso, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4448882,-3.6847127,28944.95603800818,80447.19595124948
+103,Nueva España,"Nueva España, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4625939,-3.6787346,27477.61143828799,74482.3558300516
+105,Prosperidad,"Prosperidad, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.443946,-3.6701659,19662.456750179746,45620.1787970917
+106,Castilla,"Castilla, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4763551,-3.6800358,22650.112070527142,58136.78548690526
+107,Ciudad Jardín,"Ciudad Jardín, Chamartín, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4487115,-3.6738706,19345.357663034552,45521.289720085384
+109,Opañel,"Opañel, Calle de Portalegre, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3869292,-3.7231777,11468.468320159333,28721.199942988853
+110,Comillas,"Universidad Pontificia Comillas - ICADE, 23, Calle de Alberto Aguilera, Arapiles, Chamberí, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28015, España",40.42956205,-3.711454655407626,12090.239485875192,28515.54212405642
+111,Abrantes,"Abrantes, Avenida de Abrantes, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3809981,-3.7279849,10543.741554284157,28797.45909612184
+112,San Isidro,"San Isidro, Distrito I, Alcalá de Henares, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28807, España",40.4868083,-3.3624333,10529.427857010558,27031.878607015635
+113,Carabanchel,"Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3742112,-3.744676,10988,28721
+114,Puerta Bonita,"Puerta Bonita, Calle del General Ricardos, Colonia de la Prensa, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3864775,-3.7345594,9712.173735775574,26362.895396399344
+115,Vista Alegre,"Vista Alegre, Calle de la Oca, Carabanchel, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3888034,-3.7400577,10775.460722251008,28333.25814392877
+121,Palacio,"Palacio, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.41512925,-3.715617998399092,18254.05374660342,36356.86205058354
+122,Centro,"Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.417652700000005,-3.707913766291553,16711,33473
+123,Sol,"Sol, Puerta del Sol, Sol, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, España",40.4169467,-3.7034891,16599.600114416477,32599.34222413489
+124,Goya,"Goya, Calle de Goya, Goya, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4248165,-3.6758426,22743.26920313409,51782.9145286894
+125,Guindalera,"Guindalera, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.436356,-3.6680189,20320.5155991812,47778.92219937218
+126,Lista,"Lista, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4326938,-3.6745087,22354.177357575758,51492.41927055371
+127,Castellana,"Castellana, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4333241,-3.6841316,27602.44680073126,72399.218055611
+128,Fuente del Berro,"Fuente del Berro, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.424977,-3.6636998,18816.520734856975,42630.27987622283
+129,Recoletos,"Recoletos, Salamanca, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4243637,-3.6857429,29416.646373396175,80387.28868039027
+130,Imperial,"Imperial, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4069288,-3.71732197218085,18632.110058018512,44101.09928733901
+131,Chopera,"Chopera, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.39489315,-3.699705113463008,14244.080238422743,33283.838985633105
+132,Acacias,"Acacias, Paseo de las Acacias, Arganzuela, Las Acacias, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28005, España",40.4040749,-3.7059572,19323.14741866462,46102.38689862066
+133,Delicias,"Delicias, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.39729215,-3.6894948496947286,17282.36403395935,41534.65501437641
+134,Palos de Moguer,"Palos de Moguer, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.40363845,-3.695289028405116,16276.114175399889,35873.60536316411
+135,Legazpi,"Legazpi, Bypass Sur, Arganzuela, Chopera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3911717,-3.6951902,20054.290908139777,51613.04671497235
+136,Arganzuela,"Arganzuela, Chopera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.3969535,-3.6972891,17738,42087.99999999999
+137,Alameda de Osuna,"Alameda de Osuna, Calle de La Rioja, Barrio del Aeropuerto, Barajas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4575814,-3.5879745,19871.143432258064,54036.693335380165
+138,Barajas,"Barajas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, España",40.4733176,-3.5798446,17807,47782
+139,Timón,"Timón, 7, Calle de Gabino Jimeno, Moscardó, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28026, España",40.3863375,-3.7069729,15337.385741184526,41023.134854351614
